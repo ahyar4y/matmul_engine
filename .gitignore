@@ -1,0 +1,6 @@
+MatMul_Engine/
+.Xil/
+*.log
+*.jou
+*.str
+dfx_runtime.txt
